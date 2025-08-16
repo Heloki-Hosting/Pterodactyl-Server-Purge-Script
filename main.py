@@ -73,10 +73,10 @@ time.sleep(0.5)
 type_effect_smooth("Discord  : @hellcat_xyz", color=(88, 101, 242))
 
 time.sleep(0.5)
-type_effect_smooth("Server   : https://discord.gg/heloki", color=(88, 101, 242))
+type_effect_smooth("Server   : https://discord.gg/kehSwBnEz2", color=(88, 101, 242))
 
 time.sleep(0.5)
-type_effect_smooth("Telegram : @hellcatxyzz\n", color=(0, 136, 204))
+type_effect_smooth("Telegram : @helokihost\n", color=(0, 136, 204))
 
 
 type_effect("Enter a keyword to start purging: ", start_color=(255, 100, 255))
